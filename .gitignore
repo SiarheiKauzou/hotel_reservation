@@ -1,0 +1,14 @@
+/bin/
+/*.exe
+/*.exe~
+/*.dll
+/*.so
+/*.dylib
+/vendor/
+/.idea/
+/.vscode/
+/*.iml
+*.log
+*.tmp
+*.swp
+/go.sum
